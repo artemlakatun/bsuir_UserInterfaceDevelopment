@@ -1,0 +1,55 @@
+h1{
+    margin-bottom: -5px;
+    margin-top: -5px;
+    font-size: 48px;
+}
+ol{
+    margin-left: -19px;
+}
+ol>p{
+    margin-left: -19px;
+}
+.block1{
+    margin: 100px 0px 0px 75px;
+}
+.p1{
+    color: dodgerblue;
+    font-weight: 90;
+    font-size: 30px;
+    margin-bottom: -8px;
+}
+.hr{
+    text-align: left;
+    margin-left: 0;
+    background-color: dodgerblue;
+    width: 65px;
+    height: 10px;
+}
+.p2{
+    font-weight: 90;
+    font-size: 30px;
+    margin-top: -10px;
+    color: dodgerblue;
+}
+div>ol>p>span{
+    color: red;
+}
+div>ol>p{
+    color: grey;
+}
+ol>li{
+    margin-left: 35px;
+}
+.p3{
+    color: dodgerblue;
+    font-weight: 90;
+    font-size: 30px;
+}
+.hr2{
+    text-align: left;
+    margin-left: 5px;
+    background-color: dodgerblue;
+    width: 5px;
+    height: 5px;
+    float: left;
+}
